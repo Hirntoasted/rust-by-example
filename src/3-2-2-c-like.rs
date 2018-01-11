@@ -5,6 +5,7 @@ enum Number {
     Zero,
     One,
     Two,
+    // this won't compile: Three = 2
 }
 
 enum Color {
